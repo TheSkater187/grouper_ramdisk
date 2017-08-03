@@ -28,7 +28,7 @@ debug.atrace.tags.enableflags=0
 #
 # BOOTIMAGE_BUILD_PROPERTIES
 #
-ro.bootimage.build.date=Sat Jul 8 03:36:22 UTC 2017
-ro.bootimage.build.date.utc=1499484982
-ro.bootimage.build.fingerprint=google/ua_grouper/grouper:7.1.2/NKG47M/820:userdebug/test-keys
+ro.bootimage.build.date=Tue Aug 1 08:10:26 UTC 2017
+ro.bootimage.build.date.utc=1501575026
+ro.bootimage.build.fingerprint=google/ua_grouper/grouper:7.1.2/NKG47M/910:userdebug/test-keys
 persist.sys.usb.config=adb
